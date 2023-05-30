@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+background-color: darkgrey;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25px;
+text-emphasis-color: white;
+word-spacing:normal;
+
+}
+body{
+    background-color: lightblue;
+}
